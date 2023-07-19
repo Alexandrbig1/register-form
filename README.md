@@ -10,3 +10,5 @@ Simple client side form validation. Check required, length, email and password m
 - checkLength() to check min and max length
 - checkEmail() to validate email with regex
 - checkPasswordsMatch() to match confirm password
+
+### I have worked on this project from [Udemy learning courses](https://www.udemy.com/)
