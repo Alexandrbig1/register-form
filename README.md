@@ -21,7 +21,7 @@ Simple client side form validation. Check required, length, email and password m
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
 
-### Connect with me  
+### Connect with me:  
 <div align="center">
 <a href="https://linkedin.com/in/alex-smagin29" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
